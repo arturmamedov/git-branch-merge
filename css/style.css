@@ -5,3 +5,7 @@
 .text-primary {
     color: purple;
 }
+
+.text-big {
+    font-size: 3rem;
+}
